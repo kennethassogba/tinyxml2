@@ -15,7 +15,6 @@
 	#include <windows.h>
 	_CrtMemState startMemState;
 	_CrtMemState endMemState;
-#else
 #endif
 
 using namespace tinyxml2;
